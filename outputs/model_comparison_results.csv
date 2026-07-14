@@ -1,0 +1,7 @@
+Model,Test Accuracy,Precision,Recall,F1 Score,CV Accuracy (mean),CV Accuracy (std),Train Time (s),ROC-AUC
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,0.0,0.01,1.0
+Multinomial Naive Bayes,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+Linear SVM,1.0,1.0,1.0,1.0,1.0,0.0,0.04,1.0
+Random Forest,1.0,1.0,1.0,1.0,1.0,0.0,0.3,1.0
+Passive Aggressive,1.0,1.0,1.0,1.0,1.0,0.0,0.02,1.0
+XGBoost,1.0,1.0,1.0,1.0,1.0,0.0,0.24,1.0
